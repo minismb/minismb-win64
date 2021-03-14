@@ -17,7 +17,7 @@ please checkout our Youtube channel for teaching video
 MiniSMB-Win64 is a windows kernel level IP packet generator. the advantage of it running in kernel is that it completely bypass the windows network stack and injects the user packets into device driver directly with minimal overhead. so the performance of minismb IP pacet generator would be the best class. 
 
 ### Caution
-MiniSMB-Win64 is a windows kernel based IP packet generator, Microsoft requires any device driver passing cetification program before depolying into windows. currently the software is can be only running in the TestMode. if you do really mind this drawback, please don't try to install it.
+MiniSMB-Win64 is a windows kernel based IP packet generator, Microsoft requires any device driver passing cetification program before depolying into windows. currently the software can be only running in the TestMode. if you do really mind this drawback, please don't try to install it.
 
 
 ### Free edition vs Paid User
@@ -28,7 +28,7 @@ MiniSMB-Win64 is a windows kernel based IP packet generator, Microsoft requires 
 | 1Gbps Link  |  100Kpps  |  no limit / $0.5 USD / per port, per day  |
 +-------------+-----------+-------------------------------------------+
 | 10Gbps Link |  1Mpps    |  no limit / $2 USD / per port, per day    |
-+-------------+-----------+---------------------+---------------------+
++-------------+-----------+-------------------------------------------+
 ```
 * free / Promotion only support upto two packet generator interfaces
 
