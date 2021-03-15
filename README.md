@@ -12,6 +12,7 @@ If you want to learn how to use MiniSMB IP traffic generator , please visit the 
 
 ### the useful tech resources
 please checkout our Youtube channel for teaching video
+[Free IP packet generator: 2.5Gbps NIC test in windows](https://www.youtube.com/watch?v=j9_GUTdEsK0)
 
 ### How to Install
 MiniSMB-Win64 is a windows kernel level IP packet generator. the advantage of it running in kernel is that it completely bypass the windows network stack and injects the user packets into device driver directly with minimal overhead. so the performance of minismb IP pacet generator would be the best class. 
